@@ -1,8 +1,5 @@
 # 📰 Bangla News Article Classifier
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)  
-
 **📘 Kaggle Notebook Reference:**  
 https://www.kaggle.com/code/jvedsaqib/minor-project-classification  
 
@@ -171,5 +168,11 @@ Please adhere to the existing code style, add documentation for any new modules,
 - [Bengali Stopwords – stopwords-bn GitHub](https://github.com/stopwords-iso/stopwords-bn)  
 - **Libraries & Tools**: scikit-learn, TensorFlow, Keras, NLTK  
 
+
+---
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![Python Version](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)  
 
 
